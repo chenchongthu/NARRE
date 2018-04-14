@@ -6,7 +6,7 @@ Chong Chen (cstchenc@163.com)
 @ created:
 27/8/2017
 @references:
-
+Chong Chen, Min Zhang, Yiqun Liu, and Shaoping Ma. 2018. Neural Attentional Rating Regression with Review-level Explanations. In WWW'18.
 '''
 
 
