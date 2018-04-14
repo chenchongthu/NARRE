@@ -1,5 +1,5 @@
 '''
-ARR
+NARRE
 @author:
 Chong Chen (cstchenc@163.com)
 
