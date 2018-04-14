@@ -29,7 +29,7 @@ tf.flags.DEFINE_integer("num_filters", 100, "Number of filters per filter size")
 tf.flags.DEFINE_float("dropout_keep_prob", 0.5, "Dropout keep probability ")
 tf.flags.DEFINE_float("l2_reg_lambda", 0.001, "L2 regularizaion lambda")
 # Training parameters
-tf.flags.DEFINE_integer("batch_size", 64, "Batch Size ")
+tf.flags.DEFINE_integer("batch_size", 100, "Batch Size ")
 tf.flags.DEFINE_integer("num_epochs", 40, "Number of training epochs ")
 # Misc Parameters
 tf.flags.DEFINE_boolean("allow_soft_placement", True, "Allow device soft device placement")
