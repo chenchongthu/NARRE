@@ -9,6 +9,17 @@ In WWW'18.*
 
 **Please cite our WWW'18 paper if you use our codes. Thanks!**
 
+```
+@inproceedings{chen2018neural,
+  title={Neural Attentional Rating Regression with Review-level Explanations},
+  author={Chen, Chong and Zhang, Min and Liu, Yiqun and Ma, Shaoping},
+  booktitle={Proceedings of the 2018 World Wide Web Conference on World Wide Web},
+  pages={1583--1592},
+  year={2018},
+  organization={International World Wide Web Conferences Steering Committee}
+}
+```
+
 Author: Chong Chen (cstchenc@163.com)
 
 ## Environments
