@@ -16,7 +16,6 @@ In WWW'18.*
   booktitle={Proceedings of the 2018 World Wide Web Conference on World Wide Web},
   pages={1583--1592},
   year={2018},
-  organization={International World Wide Web Conferences Steering Committee}
 }
 ```
 
